@@ -1,0 +1,9 @@
+import list as lst
+import tuple as tpl
+
+lst[10,20,30]
+
+tpl(10,20,30)
+
+lst[0]=100
+tpl[0]=100
